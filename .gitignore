@@ -14,3 +14,13 @@ server.pid
 *.eml
 /dist/
 .cache
+# intelli-J
+*.iml
+*.ipr
+*.iws
+build/
+.idea/
+.gradle/
+classes/
+
+
